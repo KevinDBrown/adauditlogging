@@ -1,4 +1,4 @@
-# 🛡️ Active Directory Logging & Auditing Project
+# 🛡️ Active Directory Logging & Auditing
 
 This solo lab demonstrates how to configure and verify Windows Security Event auditing in Active Directory. The focus was on enabling audit policies, generating loggable events (like logon, user creation, group removal), and validating the results using **Event Viewer** and **PowerShell**.
 
